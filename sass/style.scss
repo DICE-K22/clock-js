@@ -1,0 +1,38 @@
+body {
+  font-family: "Bungee Shade", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 35px;
+}
+
+.clock {
+}
+
+.clock__inner {
+  max-width: 500px;
+  width: 100%;
+  margin: 0 auto;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: skyblue;
+  border-radius: 10px;
+}
+
+.clock__container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.day {
+}
+
+.time {
+  font-size: 90px;
+}
+
+.seconds {
+}
+
+.days {
+}
