@@ -28,6 +28,13 @@ body {
 }
 
 .time {
+  display: flex;
+  justify-content: center;
+
+  align-items: baseline;
+}
+
+.hour {
   font-size: 90px;
 }
 
